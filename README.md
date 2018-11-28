@@ -26,7 +26,7 @@ You can freely delete these and make your own routes and models. Again, they're 
 To run the API, firstly you need to clone this repository. Follow these steps:
 
 1. Get and install git CLI or something to clone repositories;
-2. On a terminal inside your development/projects directory, run this command: `https://github.com/PCasado/api-expressjs-mongodb-boilerplate & cd api-expressjs-mongodb-boilerplate`;
+2. On a terminal inside your development/projects directory, run this command: `git clone https://github.com/PCasado/api-expressjs-mongodb-boilerplate & cd api-expressjs-mongodb-boilerplate`;
 3. Now you're ready to run the API.
 
 If you have the MongoDB service, skip this instruction. Run this command to run the MongoDB daemon: `./rundb.sh` for Linux users and `rundb.bat` for Windows users.
