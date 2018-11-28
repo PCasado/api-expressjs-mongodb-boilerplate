@@ -1,0 +1,24 @@
+{
+  "name": "api-expressjs-mongodb-boilerplate",
+  "version": "1.0.0",
+  "description": "An boilerplate for Express APIs which will use MongoDB as main database. It uses Mongoose as ODM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCasado/api-expressjs-mongodb-boilerplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PCasado/api-expressjs-mongodb-boilerplate/issues"
+  },
+  "homepage": "https://github.com/PCasado/api-expressjs-mongodb-boilerplate#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.14"
+  }
+}
